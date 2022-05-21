@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone 🍿
 
 ## **Access the deployed app [here]()!**
 
