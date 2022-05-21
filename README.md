@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Netflix Clone
+
+## **Access the deployed app [here]()!**
+
+### Built with React, TailwindCSS, Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
