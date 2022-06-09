@@ -4,6 +4,7 @@
  -->
 ### Built with React, TailwindCSS, Firebase
 
+### Work in progress!
 
 ## Available Scripts
 ### `npm start`
