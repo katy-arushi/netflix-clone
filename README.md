@@ -1,7 +1,7 @@
 # Netflix Clone 🍿
 
-## **Access the deployed app [here]()!**
-
+<!-- ## **Access the deployed app [here]()!**
+ -->
 ### Built with React, TailwindCSS, Firebase
 
 
